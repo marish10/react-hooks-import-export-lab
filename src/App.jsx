@@ -11,4 +11,3 @@ function Home({ username, city }) {
 }
 
 export default Home;
-
